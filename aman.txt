@@ -1,1 +1,1 @@
-THIS IS SAMPLE FILE INT THE CLONED REPO :)
+sample text file to be added frm cloned repo
